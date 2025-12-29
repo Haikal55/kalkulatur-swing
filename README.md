@@ -17,7 +17,6 @@ Aplikasi ini mendukung perhitungan ekspresi matematika beruntun dengan tampilan 
   - `100-20%` → `99.8`
 - Tombol `CE`, `Backspace`, dan `+/-`
 - Tampilan **Dark Mode** menggunakan FlatLaf
-- Tidak menggunakan `ScriptEngine` (aman untuk Java modern)
 
 ---
 
